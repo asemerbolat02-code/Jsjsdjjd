@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Мой первый сайт</title>
+</head>
+<style>
+    body {
+        background-color: #f0f8ff; /* Цвет фона */
+        text-align: center; /* Центровка текста */
+        font-family: Arial, sans-serif; /* Красивый шрифт */
+    }
+    h1 {
+        color: #ff6600; /* Цвет заголовка */
+    }
+    p {
+        font-size: 18px; /* Размер текста */
+    }
+    img {
+        border-radius: 15px; /* Скруглённые углы картинки */
+        box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Тень */
+    }
+</style>
+<body>
+    <h1>Asem!</h1>
+    <p>Я не знаю</p>
+    <p>Это мой первый сайт, сделанный на телефоне 🎉</p>
+    <img scr='https://pin.it/7xze1kDR0"
+    alt=<"эт я">
+</body>
+</html>
